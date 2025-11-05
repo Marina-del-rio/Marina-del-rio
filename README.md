@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="marina (2).gif" alt="Banner GIF"/>
+</p>
 
 Estudiante de desarrollo de aplicaciones multiplataforma
 
