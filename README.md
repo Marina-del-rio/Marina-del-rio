@@ -10,7 +10,7 @@ Estudiante de desarrollo de aplicaciones multiplataforma
 
 | Área | Tecnologías |
 |------|-------------|
-| Lenguajes | Java · Kotlin |
+| Lenguajes | Java · Kotlin · C# · Python · HTML · CSS · SQL |
 | Android / UI | XML |
-| IDEs | IntelliJ IDEA · Visual Studio Code |
-| Web | HTML · CSS |
+| IDEs | IntelliJ IDEA · Visual Studio Code · Eclipse |
+| Otros | Oracle VirtualBox · MySQL |
