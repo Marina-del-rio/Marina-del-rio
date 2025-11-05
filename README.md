@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="marina .gif" alt="Banner GIF"/>
-</p>
+
 
 Multiplatform Application Development student with a multidisciplinary background that combines software development, 3D art, game design and audiovisual communication.  
 During my studies and internships I have also worked on AI object detection, API creation, and game development using Unreal Engine and Substance tools.
@@ -9,6 +7,12 @@ Before moving fully into programming, I completed a degree in Audiovisual Commun
 This artistic and technical background gives me a unique profile: I understand both code and visual production, which allows me to collaborate between programming and creative teams.
 
 I’ve worked in different environments — from communication departments to community management, software development and award-winning videogame project — always adapting, learning fast and contributing to team results.
+
+---
+
+<p align="center">
+  <img src="marina .gif" alt="Banner GIF"/>
+</p>
 
 ---
 
