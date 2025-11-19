@@ -12,8 +12,9 @@ I’ve worked in different environments — from communication departments to co
 
 <p align="center">
   <img src="marina .gif" alt="Banner GIF"/>
+  <img src="marina .gif" alt="Banner GIF"/>
+  <img src="marina .gif" alt="Banner GIF"/>
 </p>
-
 ---
 
 ### Technologies & Tools
